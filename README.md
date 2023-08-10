@@ -1,15 +1,15 @@
 # Calculator
 A calculator in Python code
-
-1] Créer un environnement virtuel
+<br>
+1] Créer un environnement virtuel<br>
 python -m venv venv
-
+<br>
 2] Activer l'environnement virtuel
-. venv/bin/activate (linux)
+. venv/bin/activate (linux)<br>
 venv\scripts\activate (windows)
-
-3] Installer les requirements
+<br>
+3] Installer les requirements<br>
 pip install -r requirements.txt
-
-4] Tester la calculatrice
+<br>
+4] Tester la calculatrice<br>
 python calculator.py
