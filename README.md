@@ -4,7 +4,7 @@ A calculator in Python code
 1] Créer un environnement virtuel<br>
 python -m venv venv
 <br>
-2] Activer l'environnement virtuel
+2] Activer l'environnement virtuel<br>
 . venv/bin/activate (linux)<br>
 venv\scripts\activate (windows)
 <br>
